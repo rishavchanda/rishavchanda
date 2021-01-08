@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/2160/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
