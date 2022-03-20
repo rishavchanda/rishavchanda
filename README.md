@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Buckoid Android App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , MEARN**
 
